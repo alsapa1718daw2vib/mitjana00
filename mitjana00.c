@@ -24,4 +24,5 @@ int main() {
 	printf("La mitjana resultant és: %.2f\n",mitjana);	
 	return 0;
 	printf("Operació finalitzada amb èxit\n");
+	printf("prova");
 }
